@@ -1,0 +1,3 @@
+edycja pliku tekstowego
+
+kolejna linia tesktu bez sensu
